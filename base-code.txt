@@ -4,3 +4,6 @@ Line 3 of base code
 Line 1 of visual tool
 Line 2 of visual tool
 Line 3 of visual tool
+Line 4 of visual tool
+Line 5 of visual tool
+Line 6 of visual tool
